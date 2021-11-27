@@ -27,4 +27,6 @@ object Main extends App {
   //define complex number with real part as Arithmetical and imaginary part
   val c6 = 20 + 10.imaginary
   println(c6)
+
+  println(c2 - c4)
 }
